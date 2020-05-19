@@ -1,0 +1,17 @@
+span{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border-style: dotted;
+}
+
+img{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border-style: dotted;
+}
+
+div{
+    background-color: limegreen;
+}

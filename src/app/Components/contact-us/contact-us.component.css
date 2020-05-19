@@ -1,0 +1,20 @@
+input{
+    margin: 10px;
+    padding: 2px;
+}
+
+div{
+    margin: 10px;
+    background-color: lightgreen;
+    width: 500px;
+    height: 400px;
+    margin-left: 31%;
+    border-radius: 8px;
+}
+button{
+    margin: 10px;
+}
+
+input:hover{
+    background-color: lightsalmon;
+}

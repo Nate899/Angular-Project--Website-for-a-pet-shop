@@ -1,0 +1,24 @@
+div{
+    height:100%;
+    display: grid;
+    /* grid-template-columns: ; */
+    grid-template-rows: 17% 5% 80% 5% ;
+    overflow: auto;
+}
+
+div> *{
+    border: black solid 1px;
+}
+
+header, footer, nav {
+   text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+main{
+    overflow: auto;
+    text-align: center;
+}
